@@ -79,10 +79,8 @@ params:
   projects:
     - name: "Photovoltaic Canopy"
       img: /images/canopy.JPG
-      description: "Nowadays, the use of renewable energies and electric vehicles has become 
-        particularly relevant in order to lower the high pollution levels surrounding
-        our cities. A photovoltaic canopy for charging electric 
-        vehicles is a highly promising combination that can be set up in urban areas."
+      description: "A photovoltaic canopy for charging electric vehicles is a highly promising combination that can be 
+      set up in urban areas."
  
     - name: "Solar Tracker"
       img: /images/solar_tracker.JPG
@@ -92,14 +90,16 @@ params:
       
     - name: "Speed Reducer Gear"
       img: /images/gear_reducer.jpg
-      description: "A speed reducer is simply a gear train between the motor and the machinery that is used 
-      to reduce the speed with which power is transmitted. This, particularly, is composed by 3 stages, one of them conical, which allows 
-      to change the direction of the movement transmission."
+      description: "Desing of a speed gear reducer composed by 3 stages, one of them conical, 
+      which allows to change the direction of the movement transmission."
       
   # Courses
   disable_achievements: false
   achievements:
 
+    - title: Degree final project publishment in a scientific and professional journal - Springer
+      description: Published in the edition "Advances on Mechanics, Design Engineering and Manufacturing III"
+      img: /images/springer.jpg
     - title: Entrepreneurship in Circular Economy and Environment Course - COITIRM
       description: Introduction to circular economy, bussines models, digital marketing, legal and regulatory framework, financial plan and proyect management.
       img: /images/circular_economy.png
@@ -115,7 +115,7 @@ params:
 
   # Contact
   disable_contact: false
-  contact_content: My inbox is always open. Whether you have a question or just want to say hi, I'll try my best to get back to you!
+  contact_content: Whether you want to contact me or you have any doubt, my email is always open for you!
   email: "melgarejojesus97@gmail.com"
 
   # Footer
