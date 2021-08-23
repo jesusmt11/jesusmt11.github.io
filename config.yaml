@@ -1,4 +1,4 @@
-baseURL: "https://example.com"
+baseURL: "https://melgrejojesus.me"
 languageCode: "en-us"
 title: "Jesus Melgarejo"
 theme: "./hugo-profile"
@@ -21,7 +21,7 @@ params:
   version: 3
 
   favicon: "/images/icons_lemon.png"
-  description: "A high performance hugo theme for personal portfolio and blog."
+  description: "Here it´s my professional portfolio, where you can find my personal skills and all projects I´ve done"
 
   # home
   disable_home: false
