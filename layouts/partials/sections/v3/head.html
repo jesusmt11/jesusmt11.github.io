@@ -1,10 +1,12 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta http-equiv="X-UA-Compatible" content="ie=edge">
+<meta property="og:image" content="https://melgarejojesus.me/images/preview.jpg">
 <link rel="icon" href="{{ .Site.Params.favicon | default " /images/favicon.png"}}" type="image/gif">
 <!-- Google analytics -->
 {{ template "_internal/google_analytics.html" . }}
 <!-- stylesheets -->
+<link rel="stylesheet" href="/css/main.css" media="all">
 <link rel="stylesheet" href="/css/bootstrap.min.css" media="all">
 <link rel="stylesheet" href="/css/all.min.css" media="all">
 <link rel="stylesheet" href="/css/fontawesome.min.css" media="all">
@@ -21,7 +23,6 @@
 <meta property="og:type" content="{{ $type }}"/>
 <meta property="og:description" content="{{ $description }}"/>
 <meta property="og:url" content="{{ $url }}">
-<meta property="og:image" content="https://melgarejojesus.me/images/preview.jpg">
 
 <style>
     html {
