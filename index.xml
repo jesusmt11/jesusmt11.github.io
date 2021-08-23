@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jesus Melgarejo</title>
-    <link>https://melgrejojesus.me/</link>
+    <link>https://melgarejojesus.me/</link>
     <description>Recent content on Jesus Melgarejo</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://melgrejojesus.me/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://melgarejojesus.me/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
