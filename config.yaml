@@ -33,8 +33,7 @@ params:
   # About
   disable_about: false
   descripe_l1_person: "Hi, I'm Jesus, a passionate industrial engineer. I tend to learn about the use of modern technologies, 
-  such as additive manufacturing, automatization and IoT, and apply them in the frame of production industry.
-  "
+  such as additive manufacturing, automatization and IoT, and apply them in the frame of production industry.  "
   descripe_l2_person: "Interested in getting to know my profile more deeply? You can find my works [here](#projects)"
   skills:
     - name: SolidWorks

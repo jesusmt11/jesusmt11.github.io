@@ -46,6 +46,12 @@
               <i class="fab fa-lg fa-facebook"></i>
             </a>
             {{ end }}
+            
+            {{ if .Site.Params.instagram }}
+            <a href="{{ .Site.Params.instagram }}" class="social-icon">
+              <i class="fab fa-lg fa-instagram"></i>
+            </a>
+            {{ end }}
           </div>
           <div class="pt-4 btn-intro">
             <a href="#about" class="btn-know btn btn-outline-info" data-aos="zoom-in" data-aos-offset="50"

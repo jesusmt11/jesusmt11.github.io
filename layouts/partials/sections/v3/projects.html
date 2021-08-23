@@ -50,6 +50,10 @@
               <a href="{{ .githublink }}" class="px-1 pr-2">
                 <i class="fab text-dark fa-lg fa-github pro-github"></i>
               </a>
+              {{ end }} {{ if .Permalink }}
+              <a class="btn btn-sm pro-btn btn-outline-info" target="_blank" href="{{ .Permalink }}">
+                Know more...
+              </a>
               {{ end }}
             </span>
           </div>
