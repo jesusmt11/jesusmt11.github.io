@@ -53,20 +53,22 @@ params:
     - company: "Technological Institute of Informatics"
       role: "Machine Learning Trainee Researcher"
       startdate: June 2021
-      enddate: present
+      enddate: October 2021
       featuredpoints: 
         - point: Development and testing of AI algorithms for the surface anomaly detection of objects with great variable textures, such as wood or metal.
         - point: Experimentation, investigation and discussion of alternatives.
         - point: Evaluation of the developed solutions.
     - company: "Celestica"
       role: "Test & Process Engineer"
-      startdate: Jene 2021
-      enddate: present
+      startdate: October 2021
+      enddate: Present
       featuredpoints: 
-        - point: Development and testing of AI algorithms for the surface anomaly detection of objects with great variable textures, such as wood or metal.
-        - point: Experimentation, investigation and discussion of alternatives.
-        - point: Evaluation of the developed solutions.
-
+        - point: Tool's design and validation for production.
+        - point: Management of tools certificates.
+        - point: Creation and edition of work procedures.
+        - point: Management of process controls.
+        - point: Analysis of process data.
+        
   # Education
   disable_education: false
   education:
